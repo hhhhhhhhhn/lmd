@@ -1,4 +1,4 @@
-# This is a lmd test
+# This is an lmd test
 Lets generate the example `main.js` file, with a hello world example.
 
 ```javascript "file:example/main.js"
